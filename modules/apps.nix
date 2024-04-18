@@ -45,11 +45,11 @@
 
     # `brew install --cask`
     casks = [
-      # "google-chrome"
-      # "visual-studio-code"
+      "google-chrome"
+      "visual-studio-code"
       "iina"
-      # "raycast"
-      # "telegram"
+      "raycast"
+      "telegram"
     ];
   };
 }
