@@ -39,8 +39,19 @@
 
     # `brew install`
     brews = [
-      # "aria2"  # download tool
+      "aria2"  # download tool
       "curl"
+      "tig"
+      "htop"
+      "mitmproxy"
+      # Dev tools
+      "rustup-init"
+      "nvm"
+      "pyenv"
+      "gnu-sed"
+      "pkg-config"
+      "gnutls"
+      "cmake"
     ];
 
     # `brew install --cask`
@@ -51,6 +62,9 @@
       "google-chrome"
       "iina"
       "telegram"
+      "ollama"
+      "motrix"
+      "wechat"
     ];
   };
 }
