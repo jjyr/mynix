@@ -65,6 +65,7 @@
       "ollama"
       "motrix"
       "wechat"
+      "docker"
     ];
   };
 }
