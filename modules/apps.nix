@@ -66,6 +66,7 @@
       "motrix"
       "wechat"
       "docker"
+      "tailscale"
     ];
   };
 }
